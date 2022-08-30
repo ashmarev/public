@@ -1,0 +1,157 @@
+{
+  "count": 624,
+  "next": "https://spb-classif.gate.petersburg.ru/api/v2/datasets/143/versions/latest/data/570/?page=2",
+  "previous": null,
+  "results": [
+    {
+      "oid": 6093,
+      "name": "Антикафе 12 комнат",
+      "name_en": "Timecafe 12 komnat",
+      "address_manual": "Санкт-Петербург, ул. Большая Морская, 19",
+      "phone": "7 (812) 923-70-96",
+      "www": "http://12komnat.com/",
+      "email": "TWELVEROOMSSPB@GMAIL.COM",
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.934686,
+        30.314718
+      ]
+    },
+    {
+      "oid": 6095,
+      "name": "FD Антикафе",
+      "name_en": "FD timeclub",
+      "address_manual": "Санкт-Петербург, Невский проспект, дом 11",
+      "phone": "+7 (812) 418-23-81",
+      "www": "vk.com/fdfree",
+      "email": "contact@fdfree.ru",
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.936282,
+        30.316057
+      ]
+    },
+    {
+      "oid": 6099,
+      "name": "Антикафе Квартира 55",
+      "name_en": "Timecafe Kvartirka",
+      "address_manual": "Санкт-Петербург, ул. Оптиков, 38, корп.1",
+      "phone": "618-28-55",
+      "www": "http://vk.com/familyanticafe55",
+      "email": null,
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.999984,
+        30.212032
+      ]
+    },
+    {
+      "oid": 6102,
+      "name": "Антикафе \"МЕЧТА.TV\"",
+      "name_en": "Timecafe Mechta TV",
+      "address_manual": "Санкт-Петербург, пр.Тореза, д. 95",
+      "phone": "+7(911) 755-64-78\r\n+7(812) 384-64-95",
+      "www": "https://vk.com/me4tatv",
+      "email": null,
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        60.009651,
+        30.346932
+      ]
+    },
+    {
+      "oid": 6103,
+      "name": "Антикафе \"Свободное время\"",
+      "name_en": "Timecafe Svobodnoe vremya",
+      "address_manual": "Санкт-Петербург, 1-ая линия В.О., д.14",
+      "phone": "994-58-99",
+      "www": "http://vk.com/anticafespb",
+      "email": null,
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.940343,
+        30.291596
+      ]
+    },
+    {
+      "oid": 6106,
+      "name": "Антикафе \"Часы не спешат\"",
+      "name_en": "Timecafe Chasy ne speshat",
+      "address_manual": "Санкт-Петербург, ул. Жуковского, 5",
+      "phone": "+7 (812) 273-10-28",
+      "www": "http://chasynespeshat.ru/ http://vk.com/chasynespeshat",
+      "email": "chasynespeshat@yandex.ru",
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.935574,
+        30.350768
+      ]
+    },
+    {
+      "oid": 6108,
+      "name": "Freak-zone",
+      "name_en": "Steampunk timecafe",
+      "address_manual": "Санкт-Петербург, ул. 1-я Советская, 4",
+      "phone": "244-68-26",
+      "www": "http://vk.com/freak_zone",
+      "email": "freak.zone.spb@gmail.com",
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.931625,
+        30.363191
+      ]
+    },
+    {
+      "oid": 6120,
+      "name": "Свободное пространство \"Циферблат\"",
+      "name_en": "Timecafe Tchiferblat",
+      "address_manual": "Санкт-Петербург, Невский проспект, д. 81",
+      "phone": "7 (960) 285-69-46",
+      "www": "http://ziferblat.net/",
+      "email": "clockface.spb@gmail.com",
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.930818,
+        30.359553
+      ]
+    },
+    {
+      "oid": 6121,
+      "name": "Антикафе \"Цифербург\"",
+      "name_en": "Timecafe Tchiferburg",
+      "address_manual": "Санкт-Петербург,  набережная реки Фонтанки, 20",
+      "phone": "7 (981) 180 70 22",
+      "www": "http://vk.com/ziferburg",
+      "email": null,
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.935263,
+        30.33458
+      ]
+    },
+    {
+      "oid": 6122,
+      "name": "Тайм-кафе \"Миракл\"",
+      "name_en": "Timecafe Miracle",
+      "address_manual": "Санкт-Петербург, Мошков пер., 4",
+      "phone": "570-13-14",
+      "www": "http://www.itsamiracle.ru/",
+      "email": null,
+      "kitchen": null,
+      "for_disabled": "нет",
+      "coord": [
+        59.943372,
+        30.321806
+      ]
+    }
+  ]
+}
