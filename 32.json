@@ -1,0 +1,227 @@
+{
+  "count": 248,
+  "next": "https://spb-classif.gate.petersburg.ru/api/v2/datasets/139/versions/latest/data/569/?page=2&per_page=10",
+  "previous": null,
+  "results": [
+    {
+      "oid": 3285,
+      "name": "Аничков Дворец",
+      "name_en": "Anichkov Palace",
+      "type": "государственное ведомственное учреждение",
+      "country": "Россия",
+      "address_manual": "191011, Санкт-Петербург, Невский пр., 39 лит. А",
+      "district": "Центральный",
+      "phone": "+7 (812) 310-93-80, +7 (812) 310-43-95\r\nСправки об оплате групповых экскурсий по телефону 310-45-88.",
+      "www": "http://anichkov.ru/page/museum/",
+      "email": "anichkovmuz@mail.ru",
+      "description": "Старейшее здание на Невском проспекте, императорская резиденция",
+      "description_en": "The oldest building on Nevsky prospekt, imperial palace",
+      "work_time": "пн-сб 10:00-18:00",
+      "for_disabled": "нет",
+      "coord": [
+        59.932723,
+        30.341459
+      ],
+      "ogrn": "2147483647123.0",
+      "inn": "7840325991.0"
+    },
+    {
+      "oid": 3287,
+      "name": "Воскресенский Новодевичий монастырь",
+      "name_en": "Voskresensky Novodevichy Convent",
+      "type": "гос.федеральное учреждение",
+      "country": "Россия",
+      "address_manual": "196084, Санкт-Петербург, Московский пр., 100 к.2",
+      "district": "Московский",
+      "phone": "+7 (812) 252-11-66 (канцелярия)",
+      "www": "вноводевичий.рф",
+      "email": "priest-denis@yandex.ru",
+      "description": "Действующий православный женский монастырь",
+      "description_en": "Active Ortodox Convent",
+      "work_time": "09:00–18:00",
+      "for_disabled": "нет",
+      "coord": [
+        59.89853,
+        30.322101
+      ],
+      "ogrn": "1037858002698.0",
+      "inn": "7810387493.0"
+    },
+    {
+      "oid": 3290,
+      "name": "Музей Дома Радио",
+      "name_en": null,
+      "type": null,
+      "country": "Россия",
+      "address_manual": "191023, Санкт-Петербург, ул. Малая Садовая, 2/27",
+      "district": "Центральный",
+      "phone": "нет данных",
+      "www": "нет данных",
+      "email": "нет данных",
+      "description": "В здании работают радио «Петербург» и звукозаписывающая студия, Музей Дома Радио, «Открытая студия» канала 78. Ряд помещений в качестве репетиционных площадок арендовали музыкальные коллективы города. В здании репетировали Губернаторский симфонический оркестр Петербурга, оркестр Михайловского театра, Санкт-Петербургский государственный академический симфонический оркестр (СПб ГАСО) под руководством Александра Титова, Детский хор телевидения и радио Санкт-Петербурга, Музыкальный театр детей Марины Ланда.",
+      "description_en": null,
+      "work_time": "Круглосуточно",
+      "for_disabled": "нет",
+      "coord": [
+        59.935402,
+        30.33857
+      ],
+      "ogrn": null,
+      "inn": null
+    },
+    {
+      "oid": 3295,
+      "name": "Зимний дворец (Главный музейный комплекс)",
+      "name_en": "Winter Palace",
+      "type": "гос.федеральное учреждение",
+      "country": "Россия",
+      "address_manual": "191055, Санкт-Петербург, пл. Дворцовая, 2",
+      "district": "Центральный",
+      "phone": "+7 (812) 710-96-25",
+      "www": "hermitagemuseum.org",
+      "email": "chancery@hermitage.ru",
+      "description": "Зимний дворец - бывший императорский дворец, в настоящее время входит в состав главного музейного комплекса Эрмитаж",
+      "description_en": null,
+      "work_time": "Время работы\r\n\r\nвт, чт, вс: 11:00 – 19:00\r\nср, пт, сб: 11:00 – 20:00\r\n\r\nМузей закрыт по понедельникам, 1 января и 9 мая\r\n\r\nБилеты в музей приобретаются на официальном сайте музея. Посещение осуществляется по разработанным музеем маршрутам по сеансам.\r\n\r\nМаршрут №1 по главному музейному комплексу (вход с Иорданской лестницы), маршрут №2 по главному музейному комплексу (вход с Церковной лестницы). Возможно посещение с экскурсией по сеансам в составе группы до 10 человек\r\n\r\nЭлектронный входной билет: 500 рублей\r\n\r\nЭлектронный билет действителен на выбранный сеанс и маршрут только в день посещения. Льготы не распространяются на экскурсионное обслуживание.\r\n\r\nГлавный музейный комплекс (маршрут №1 «Вход со стороны Иорданской лестницы»): электронный входной билет по специальному предложению* - 300 рублей",
+      "for_disabled": "да",
+      "coord": [
+        59.939741,
+        30.314803
+      ],
+      "ogrn": "1037843031808.0",
+      "inn": "7830002416.0"
+    },
+    {
+      "oid": 3296,
+      "name": "Смольный институт благородных девиц",
+      "name_en": "Smolny institution for young ladies",
+      "type": "гос.федеральное учреждение",
+      "country": "Россия",
+      "address_manual": "191060, Санкт-Петербург, Смольный проезд, 1",
+      "district": "Центральный",
+      "phone": "+7 (812) 576-77-46; +7 (812) 576-74-61",
+      "www": "visit-petersburg.ru/ru/leisure/194704/",
+      "email": null,
+      "description": "Здание Смольного института построено в стиле классицизм в 1806-1808 годах по проекту архитектора Д. Кваренги. Институт работал в историческом здании до 1917 года. В наши дни в здании располагается Администрация Санкт-Петербурга",
+      "description_en": "Smolny Institution was built in 1806-1808 by D. Quarenghi in classical style. The Institution had functioned till 1917. Nowadays this building is used by Government of St. Petersburg.",
+      "work_time": "11:00–18:00, в пятницу с 15.00; выходные дни - суббота, воскресенье. Только экскурсионное обслуживание",
+      "for_disabled": "нет",
+      "coord": [
+        59.946163,
+        30.396433
+      ],
+      "ogrn": "1047844026933.0",
+      "inn": "7825453621.0"
+    },
+    {
+      "oid": 3298,
+      "name": "Исаакиевский собор",
+      "name_en": "St. Isaac's Cathedral",
+      "type": "гос.федеральное учреждение",
+      "country": "Россия",
+      "address_manual": "190031, Санкт-Петербург, Исаакиевская площадь, 4",
+      "district": "Адмиралтейский",
+      "phone": "+7 (812) 315-97-32",
+      "www": "cathedral.ru",
+      "email": "office@cathedral.ru",
+      "description": "Музей-памятник \"Исаакиевский собор\" - один из наиболее значительных художественных музеев России, пользующийся известностью во многих зарубежных странах.\r\n  Исаакиевский собор - уникальный памятник отечественной архитектуры и один из лучших кафедральных соборов Европы. Это выдающийся образец русского культового искусства.",
+      "description_en": "St. Isaac’s Cathedral is an outstanding monument of Russian architecture of the 19th century and one of the greatest dome constructions in the world, smaller in size only in comparison with the Cathedral of St. Peter in Rome, St. Paul’s Cathedral in London and Santa Maria del Fiore Cathedral in Florence",
+      "work_time": "пн, вт, чт-вс 11:00-18:00",
+      "for_disabled": "нет",
+      "coord": [
+        59.934039,
+        30.306129
+      ],
+      "ogrn": "1027810284810.0",
+      "inn": "7812025107.0"
+    },
+    {
+      "oid": 3299,
+      "name": "Казанский Кафедральный Собор",
+      "name_en": "Kazan Cathedral",
+      "type": "гос.федеральное учреждение",
+      "country": "Россия",
+      "address_manual": "191186, Санкт-Петербург, Казанская пл., 2",
+      "district": "Центральный",
+      "phone": "+7 (812) 314-58-56",
+      "www": "kazansky-spb.ru",
+      "email": "kazancathedral@gmail.com",
+      "description": "Казанский Кафедральный Собор - один из крупнейших храмов Санкт-Петербурга, выполненный в стиле ампир. Построен на Невском проспекте в 1801—1811 годах архитектором А. Н. Воронихиным для хранения чтимого списка чудотворной иконы Божией Матери Казанской. После Отечественной войны 1812 года приобрел значение памятника русской воинской славы. В 1813 году здесь был похоронен полководец М. И. Кутузов и помещены ключи от взятых городов и другие военные трофеи.",
+      "description_en": "Kazan Cathedral, also known as the Cathedral of Our Lady of Kazan, is a cathedral of the Russian Orthodox Church on the Nevsky Prospekt in St. Petersburg. It is dedicated to Our Lady of Kazan, probably the most venerated icon in Russia.",
+      "work_time": "пн-сб 08:30-20:00\r\nвс 06:30-20:00",
+      "for_disabled": "нет",
+      "coord": [
+        59.934387,
+        30.324738
+      ],
+      "ogrn": "1027810284810.0",
+      "inn": "7812025107.0"
+    },
+    {
+      "oid": 3304,
+      "name": "Михайловский замок",
+      "name_en": "Mikhailovsky Castle (Russian Museum)",
+      "type": "гос.федеральное учреждение",
+      "country": "Россия",
+      "address_manual": "191023, Санкт-Петербург, Садовая улица, 2",
+      "district": "Центральный",
+      "phone": "+7 (812) 595-42-48",
+      "www": "rusmuseum.ru",
+      "email": "info@rusmuseum.ru",
+      "description": "Ансамбль Михайловского замка с двумя павильонами Кордегардий. 1797-1801 гг., архитекторы В. Бренна и В. Баженов. Единственное в России дворцовое сооружение в стиле романтического классицизма. Строился как парадная резиденция императора Павла I. Название получил в честь Архангела Михаила - небесного покровителя Дома Романовых. После убийства, произошедшего здесь в ночь с 11 на 12 марта 1801 года, замок потерял значение парадной резиденции, перешел в ведение Министерства Императорского двора и постепенно пришел в запустение. С 1823 года здесь разместилось Николаевское Инженерное училище, давшее замку новое название - Инженерный.",
+      "description_en": "Among the galaxy of magnificent palaces and mansions of old St. Peterburg the Mikhailovskiy castle occupies a special place whilst still Grand Duke, Paul I was already considering building his own residence, and more then 10- years different architects like Vasiliy Bazhenov were involved in the project. But Emperor lived in it for only 40 days, he was murdered in his bedroom. After this bloody event in the castle was open the main Engeneering School.",
+      "work_time": "пн, ср, пт, сб, вс 10:00-18:00 \r\nчт 13:00-21:00 \r\nвт - выходной",
+      "for_disabled": "нет",
+      "coord": [
+        59.93989,
+        30.337753
+      ],
+      "ogrn": null,
+      "inn": null
+    },
+    {
+      "oid": 3305,
+      "name": "Музей антропологии и этнографии имени Петра Великого Российской Академии Наук (Кунсткамера)",
+      "name_en": "Peter the Great Museum of Anthropology and Ethnography of the Russian Academy of Sciences (Kunstkamera)",
+      "type": "гос.федеральное учреждение",
+      "country": "Россия",
+      "address_manual": "199034, Санкт-Петербург, Университетская наб., 3",
+      "district": "Василеостровский",
+      "phone": "+7 (812) 328-14-12",
+      "www": "kunstkamera.ru",
+      "email": "info@kunstkamera.ru; order@kunstkamera.ru",
+      "description": "Первый музей России, учреждённый императором Петром Первым в 1714 году. Обладает уникальной коллекцией предметов старины, раскрывающих историю и быт многих народов, а также коллекцией, собранной Петром Первым во время его путешествий.",
+      "description_en": "The Kunstkamera was the first museum in Russia. Established by Peter the Great in 1714. It has anthropological and ethnographical collections on the culrures of people around the world and some items collected by Peter the Great in his travels.",
+      "work_time": "вт-вс 11:00-18:00\r\nкассы до 17:00\r\nпн - выходной\r\nпоследний вт каждого месяца - санитарный день",
+      "for_disabled": "нет",
+      "coord": [
+        59.941442,
+        30.304543
+      ],
+      "ogrn": "1037800013206.0",
+      "inn": "7801023852.0"
+    },
+    {
+      "oid": 3306,
+      "name": "Новый Эрмитаж",
+      "name_en": "The New Hermitage",
+      "type": "гос.федеральное учреждение",
+      "country": "Россия",
+      "address_manual": "​191186, Санкт-Петербург, Миллионная улица, 35",
+      "district": "Центральный",
+      "phone": "+7 (812) 710-90-79",
+      "www": "hermitagemuseum.org",
+      "email": "visitorservices@hermitage.ru",
+      "description": "Одно из зданий Государственного Эрмитажа",
+      "description_en": "Part of the State Hermitage",
+      "work_time": "вт-вс: 10:30-18:00\r\nср: 10:30-21:00",
+      "for_disabled": "нет",
+      "coord": [
+        59.94114,
+        30.317611
+      ],
+      "ogrn": "1037843031808.0",
+      "inn": "7830002416.0"
+    }
+  ]
+}
