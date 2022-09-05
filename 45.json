@@ -1,0 +1,97 @@
+{
+  "count": 135,
+  "next": "https://spb-classif.gate.petersburg.ru/api/v2/datasets/222/versions/latest/data/517/?page=2&per_page=10",
+  "previous": null,
+  "results": [
+    {
+      "number": 1,
+      "name": "Бизнес-инкубатор \"Ингрия\"",
+      "address": "г. Санкт-Петербург, проспект Медиков, д.3, лит. А",
+      "phone": "(812)670-10-85",
+      "email": "referent@ingria-park.ru;\ne.urosova@ingria-park.ru",
+      "web_site": "http://ingria-startup.ru",
+      "category": null
+    },
+    {
+      "number": 2,
+      "name": "Бизнес-инкубатор \"Технопарк Смоленка\"",
+      "address": "г. Санкт-Петербург, Малый пр., В.О., д. 57, корп. 3, лит. А",
+      "phone": "(812)303-92-25",
+      "email": "info@techno-smolenka.ru",
+      "web_site": "https://techno-smolenka.ru/",
+      "category": null
+    },
+    {
+      "number": 3,
+      "name": "Бизнес-инкубатор \"Бюро интеллектуального сервиса\" (ИНКУБИС)",
+      "address": "г. Санкт-Петербург, Ленинский пр-т, д.101, оф. 209",
+      "phone": "(812)570-57-44",
+      "email": "info@incubis.ru",
+      "web_site": "http://www.incubis.ru/",
+      "category": null
+    },
+    {
+      "number": 4,
+      "name": "АО \"Технопарк Санкт-Петербурга\"",
+      "address": "г. Санкт-Петербург, пр. Медиков, д.3, лит. А",
+      "phone": "(812)670-10-85",
+      "email": "referent@ingria-park.ru",
+      "web_site": "http://ingria-park.ru",
+      "category": null
+    },
+    {
+      "number": 5,
+      "name": "Технопарк Университета Информационных технологий, механики и оптики (далее - ИТМО)",
+      "address": "г. Санкт-Петербург, Биржевая линия, \n14-16",
+      "phone": "(812)457-17-93",
+      "email": "info@itc.vuztc.ru",
+      "web_site": "http://technopark.itmo.ru",
+      "category": null
+    },
+    {
+      "number": 6,
+      "name": "Технопарк Университета ИТМО (НИЦ нанофотоники и оптоинформатики; Международная лаборатория «Метаматериалы»; НИИ наукоемких компьютерных технологий)",
+      "address": "г. Санкт-Петербург, Биржевая линия, \n14-16",
+      "phone": "(812)457-17-93",
+      "email": "info@itc.vuztc.ru",
+      "web_site": "technopark.itmo.ru",
+      "category": null
+    },
+    {
+      "number": 7,
+      "name": "Технопарк Университета ИТМО (Научно-Технический Центр «Световодная фотоника»)",
+      "address": "г. Санкт-Петербург, Новоизмайловский проспект д. 34  корп. 3",
+      "phone": "(812) 375-76-71",
+      "email": "igorkm@niuitmo.ru",
+      "web_site": "https://sf.itmo.ru/ru/",
+      "category": null
+    },
+    {
+      "number": 8,
+      "name": "Технопарк Университета ИТМО (Международный институт \"Фотоника и оптоинформатика\"; Международный научный центр оптической и квантовой информатики, биофотоники)",
+      "address": "г. Санкт-Петербург, Биржевая линия, \n14-16",
+      "phone": "(812)457-17-93",
+      "email": "info@itc.vuztc.ru",
+      "web_site": "technopark.itmo.ru",
+      "category": null
+    },
+    {
+      "number": 9,
+      "name": "Технопарк СПбГЭТУ «ЛЭТИ»",
+      "address": "г. Санкт-Петербург, улица Профессора Попова, д. 5",
+      "phone": "(812)234-09-18",
+      "email": "transfer@eltech.ru",
+      "web_site": "https://etu.ru/ru/nauchnaya-i-innovacionnaya-deyatelnost/tehnopark/",
+      "category": null
+    },
+    {
+      "number": 10,
+      "name": "Технопарк «ЛЕНПОЛИГРАФМАШ»",
+      "address": "г. Санкт-Петербург, набережная реки Карповки д.5, литера А, помещение 16Н, офис 17",
+      "phone": "8(812) 234-85-94, 8(931)222-60-20",
+      "email": "info.lenpoligraphmash@gmail.com",
+      "web_site": "https://lpmtech.ru",
+      "category": null
+    }
+  ]
+}
